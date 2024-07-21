@@ -38,8 +38,6 @@ The robot uses a Kalman filter with lidar and Aruco markers to correct its pose.
   ```
 3. Run the localization script within the localization package.
 
-## Project Report
-For more detailed information about the project, please refer to the project PDF included in the repository.
 
 ## Demo
 A video demonstration of the project is available below:
